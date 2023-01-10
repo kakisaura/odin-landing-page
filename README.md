@@ -11,4 +11,4 @@ Images used:
 
 
 
-Link to preview: https://smkakitani.github.io/odin-form-project/
+Link to preview: https://smkakitani.github.io/odin-landing-page/
